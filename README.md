@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @EdithDehoyos, My pronouns are She/Her.
-- 👀 I’m interested in System Development, Low Level programming, Embedded Software Development
-- 🌱 I’m currently learning C, Assembly, Rust.
-- 💞️ I’m looking to collaborate on Linux Kernel Development, Driver development, Hobby Projects
-- 📫 How to reach me edithdehoyos2003@gmail.com
